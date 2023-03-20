@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 mkdir tmp my_first_directory
 =======
 mkdir my_first_directory
 >>>>>>> 12cd1b248d9e47f9440b3903000e34edb1028b7d
+=======
+mkdir {tmp,my_first_directory}
+>>>>>>> 198f210d9f479a8f27fc6c4ee6f31ae8017efb3c
